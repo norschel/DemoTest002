@@ -1,0 +1,10 @@
+c:\test\repos\CICDDemoApp\CICDDemoApp\bin\Debug\CICDDemoApp.exe.config
+c:\test\repos\CICDDemoApp\CICDDemoApp\bin\Debug\CICDDemoApp.exe
+c:\test\repos\CICDDemoApp\CICDDemoApp\bin\Debug\CICDDemoApp.pdb
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.csprojAssemblyReference.cache
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.Form1.resources
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.Properties.Resources.resources
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.csproj.GenerateResource.cache
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.csproj.CoreCompileInputs.cache
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.exe
+c:\test\repos\CICDDemoApp\CICDDemoApp\obj\Debug\CICDDemoApp.pdb
